@@ -1,6 +1,6 @@
 @echo off
+:: 颜色设置
 color 06
-
 ::设置目标
 set object=ffmpeg.exe
 ::备份环境变量
